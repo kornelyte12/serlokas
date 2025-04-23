@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/kornelyte12/serlokas
 
-Design: ![alt text](./original-design.png)
+Design: ![alt text](./serlokas.png)
 
 ## 🎯 Project features/goals
 
