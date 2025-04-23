@@ -1,66 +1,77 @@
-<<<<<<< Updated upstream
-Personal
-website design project
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
+[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
+# Serlokas
 
-🌟 About
+_website design project_
+
+<br>
+
+## 🌟 About
+
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/serlokas
+Site published at: https://github.com/kornelyte12/serlokas
 
-Design: Saasio
+Design: ![alt text](./original-design.png)
 
-🎯 Project features/goals
-Github pages
-responsive design
-HTML forms
-icons / FontAwesome
-Google Fonts
-CSS animations
-JS generated html
-Favicon
-🧰 Getting Started
-💻 Prerequisites
-Node.js - download and install
+## 🎯 Project features/goals
 
+-   Github pages
+-   no responsive design
+-   inline CSS
+
+## 🧰 Getting Started
+
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
+```
 https://nodejs.org
-Git - download and install
+```
 
+Git - _download and install_
+
+```
 https://git-scm.com
-🏃 Run locally
+```
+
+### 🏃 Run locally
+
 Would like to run this project locally? Open terminal and follow these steps:
 
-Clone the repo
-git clone https://github.com/front-end-by-rimantas/serlokas
-Install NPM packages
-npm i
-or
-npm install
-Run the server
-npm run dev
-🧪 Running tests
+1. Clone the repo
+    ```sh
+    git clone https://github.com/kornelyte12/serlokas
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the server
+    ```sh
+    npm run dev
+    ```
+
+### 🧪 Running tests
+
 There is no tests for this project.
 
-🎅 contributors
-Github - Tadas
+## 🎅 Authors
 
-Github - Mantas
+Kornelija: [Github](https://github.com/kornyte12)
 
-Github - Evelina
+## ⚠️ License
 
-Github -Paulius
+Distributed under the MIT License. See LICENSE.txt for more information.
 
-Github - Evaldas
+## 🔗 Other resources
 
-Github - Mindaugas
-
-Github - Rimantas
-
-🔗 Other resources
-https://fonts.google.com/
-
-https://fontawesome.com/icons
-
-https://realfavicongenerator.net/
-
-Stashed changes
+No other resources.
